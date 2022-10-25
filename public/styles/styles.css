@@ -1,0 +1,89 @@
+
+
+body{
+    background-color: #3d3d3d;
+}
+
+
+.rocketslogo{
+    width: 100%;
+}
+
+.navbar{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+    padding-bottom: 10px;
+    background-color: black;
+}
+
+.navbar a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.quotehome{
+    text-align: center;
+}
+
+.quotehome h1{
+    color: red;
+}
+
+.img1{
+    width: 33%;
+}
+.img2{
+    width: 33%;
+}
+
+.img3{
+    width: 31%;
+}
+
+.img4{
+    width: 33%;
+}
+
+.img5{
+    width: 33%;
+}
+
+.img7{
+    width:31%;
+}
+
+.img6{
+    width: 95%;
+    padding-left: 2%;
+}
+
+/* .gallerydiv{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: stretch;
+        align-content: space-evenly;
+        padding-top: 10px;
+} */
+h1{
+    text-align: center;
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+h2{
+    color: white;
+}
