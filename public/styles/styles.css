@@ -87,3 +87,70 @@ li{
 h2{
     color: white;
 }
+
+
+
+@media (min-width: 1400px){
+    .navbar{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: center;
+        align-content: center;
+        padding-bottom: 10px;
+        background-color: black;
+        height: 80px;
+    }
+
+    .navbar a{
+        padding-top: 10px;
+        text-decoration: none;
+        color: white;
+        font-size: 2rem;
+    }
+
+    .rocketslogo{
+        padding-left: 160px;
+        width: 80%;
+        height: 500px;
+        padding-top: 50px;
+    }
+
+    .quotehome h1{
+        color: red;
+        font-size: 4rem;
+    }
+
+    .quotehome{
+        text-align: justify;
+        padding: 0 250px;
+        font-size: 2rem;
+    }
+
+
+    h1{
+        text-align: center;
+        color: red;
+        font-size: 4rem;
+    }
+
+
+    .worksdiv{
+        text-align: justify;
+        padding-left: 30px;
+    }
+
+    h2{
+        font-size: 2rem;
+    }
+
+    li{
+        font-size: 1.5rem;
+    }
+
+    .aboutquote{
+        font-size: 2rem;
+        padding: 0 250px;
+    }
+}
